@@ -17,7 +17,7 @@ Em nossa loja "você nerd" encontrará os produtos que faltam para suas coleçõ
 ![Print da tela inicial](https://github.com/joao-Gabriel-Bf2007/e.ecommerce-utopia-nerd/blob/master/miniatura/Captura%20de%20tela%202024-05-29%20125743.png)
 
 ## Exemplos da Pâgina Colecionaveis:
-![Print da tela inicial]()https://github.com/joao-Gabriel-Bf2007/e.ecommerce-utopia-nerd/blob/master/miniatura/Captura%20de%20tela%202024-05-29%20125818.png
+![Print da tela inicial](https://github.com/joao-Gabriel-Bf2007/e.ecommerce-utopia-nerd/blob/master/miniatura/Captura%20de%20tela%202024-05-29%20125818.png)
 
 ## Autores
 
