@@ -29,16 +29,23 @@ Em nossa loja "você nerd" encontrará os produtos que faltam para suas coleçõ
 Temos muito orgulho de apresentar ao nossos clientes nossas parcerias, que é claros, torna esse mundo nerd possivel.
 
 ### Panini Comics 
-![Print da tela inicial]()
+![Print da tela inicial](https://github.com/joao-Gabriel-Bf2007/e.ecommerce-utopia-nerd/blob/master/miniatura/post-13-figura-27-logotipo-da-panini-hoje-opt.jpg)
+
+A Panini contribui na Sessão Comics com: "Marvel comics", "DC comics", "Panini Comics" e "Planet Manga"
 
 ### Editora Europa
-![Print da tela inicial]()
+![Print da tela inicial](https://github.com/joao-Gabriel-Bf2007/e.ecommerce-utopia-nerd/blob/master/miniatura/images.png)
+
+A Hot-Toys contribui na Sessão Colecionaveis com: "Colecionaveis de animes", "Colecionaveis de filmes", "Colecionaveis de seriados" e "Colecionaveis de desenhos animados"
 
 
 ## Agradecimentos
 
-Agradecemos primeiramente aos nossos colaboradores (funcionarios) das equipes de desenvolvimento e contabilidade que nos ajudam a organizar, preparar e buscar parcerias. Agradecemos as empresas que nos apoiam para trazer esses incriveis produtos para vocês, e por fim mas não menos importante, agradecemos sua confiança e carinho por acreditar em nosso trabalho.
+Agradecemos primeiramente aos nossos colaboradores (funcionarios) das equipes de desenvolvimento e contabilidade que nos ajudam a organizar, preparar e buscar parcerias. 
+Agradecemos as empresas que nos apoiam para trazer esses incriveis produtos para vocês, e por fim mas não menos importante, agradecemos sua confiança e carinho por acreditar em nosso trabalho.
 
-## Autores
+## Desenvolvedores
 
-Desenvolvido por: joao-Gabriel-Bf2007 e Renan-Alexandre-Gregorio
+Desenvolvidores chefes: joao-Gabriel-Bf2007 e Renan-Alexandre-Gregorio
+
+Equipe de contabilidade: Pafuncio, Zuleika e Epaminondas.
