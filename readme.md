@@ -33,7 +33,7 @@ Temos muito orgulho de apresentar ao nossos clientes nossas parcerias, que é cl
 
 A Panini contribui na Sessão Comics com: "Marvel comics", "DC comics", "Panini Comics" e "Planet Manga"
 
-### Editora Europa
+### Hot-Toys
 ![Print da tela inicial](https://github.com/joao-Gabriel-Bf2007/e.ecommerce-utopia-nerd/blob/master/miniatura/images.png)
 
 A Hot-Toys contribui na Sessão Colecionaveis com: "Colecionaveis de animes", "Colecionaveis de filmes", "Colecionaveis de seriados" e "Colecionaveis de desenhos animados"
